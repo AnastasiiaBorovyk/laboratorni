@@ -21,13 +21,6 @@
                 <p class="marcy">Marcy</p>
             </div>
         </div>
-        <div class="nav-menu">
-            <ul class="menu">
-                <li class="link">Home Page</li>
-                <li class="link">About Us</li>
-                <li class="link">Contact Us</li>
-            </ul>
-        </div>
     </div>
 </header>
 </body>
