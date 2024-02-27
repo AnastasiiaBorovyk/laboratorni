@@ -30,14 +30,5 @@
         </div>
     </div>
 </header>
-<main class="main content">
-</main>
-<!-- ******FOOTER****** -->
-<footer class="footer">
-    <div class="container text-center">
-        <small class="copyright"><?= 'Designed by Me!' ?></small>
-    </div><!--//container-->
-</footer><!--//footer-->
-<!-- Javascript -->
 </body>
 </html>
